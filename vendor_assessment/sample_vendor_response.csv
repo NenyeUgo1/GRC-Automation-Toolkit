@@ -1,0 +1,4 @@
+vendor_name,data_sensitivity,vendor_criticality,security_maturity,compliance_alignment
+Vendor A,8,9,6,7
+Vendor B,3,4,5,2
+Vendor C,9,8,7,8
