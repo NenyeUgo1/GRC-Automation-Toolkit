@@ -1,0 +1,5 @@
+{
+  "ISO27001:A.5.1": ["NIST:PR-AC-1", "CIS:IG1-1.1"],
+  "ISO27001:A.8.2": ["NIST:PR-DS-1"],
+  "ISO27001:A.9.1": ["NIST:PR-AC-3", "SOC2:CC6.1"]
+}
