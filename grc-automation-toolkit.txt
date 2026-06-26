@@ -1,0 +1,26 @@
+grc-automation-toolkit/
+│
+├── risk_scoring/
+│   ├── risk_scoring.py
+│   ├── sample_vendor_data.csv
+│   └── README.md
+│
+├── policy_tracker/
+│   ├── policy_tracker.py
+│   └── policy_register.csv
+│
+├── control_mapping/
+│   ├── iso_to_nist_mapping.json
+│   └── control_mapper.py
+│
+├── vendor_assessment/
+│   ├── vendor_questionnaire_template.xlsx
+│   ├── vendor_assessment.py
+│   └── sample_vendor_response.xlsx
+│
+├── docs/
+│   ├── architecture.md
+│   ├── user_guide.md
+│   └── roadmap.md
+│
+└── README.md
